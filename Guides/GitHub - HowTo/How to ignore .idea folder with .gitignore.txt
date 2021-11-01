@@ -1,0 +1,16 @@
+1) Add it to .gitignore, so it is not accidentally committed by you (or someone else) again.
+2) If there is an .idea folder on git, remove it.
+3) Add the .gitignore file
+4) Commit it
+5) Push it
+
+The full process would look like this:
+$ echo '.idea' >> .gitignore
+$ git rm -r --cached .idea
+$ git add .gitignore
+$ git commit -m '(some message stating you added .idea to ignored entries)'
+$ git push
+
+
+
+- Bryan

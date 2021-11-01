@@ -1,0 +1,102 @@
+0;0;250;CrowdPanic;Thieves and Murderers;A large group has started raiding and murdering people!;0.85;0.8;0.8;0.9
+0;0;350;CrowdPanic;Black Death;An infectious bacterial disease has spread all over the world and has decreased the health of your population.;1;1;0.3;0.4
+0;0;1000;Earthquake;Earthquake;An earthquake has occurred and has damaged your infrastructure!;0.8;0.6;0.7;0.75
+0;0;1000;Hunger;Starvation;Famine sweeps across the globe!;1;1;0.4;0.7
+0;0;1000;Volcano;Volcanic eruption;Death Mountain has erupted and has filled the atmosphere with ashes.;0.4;0.8;0.6;0.9
+0;0;1000;Tsunami;Tsunami;A giant 10-meter tall tsunami destroyed one of the biggest capitals.;1;0.8;0.5;0.7
+0;0;1000;Disaster;Environmental disaster;Something has caused a very strange atmospheric change -- maybe the CPU is overheating?;0.2;0.5;0.8;1
+0;0;1000;Fire;Forest fire;Panic arises, many farmlands are lost and pollution levels are skyrocketing.;0.7;0.5;0.7;0.95
+0;0;1000;SnowStorm;Blizzard;A severe blizzard has made certain crop-fields unusable and many people have gotten the common cold.;1;0.9;0.6;0.95
+0;0;1000;Typhoon;Typhoon;A cyclonic storm has devastated many coastal cities.;1;0.8;0.65;0.9
+0;0;1000;Drought;Drought;Many crops have died and the scorching heat has made life difficult.;0.95;0.7;0.75;1
+0;0;1000;Tornado;Tornado;A violent and dangerous tornado has destroyed many houses.;1;0.95;0.7;0.9
+0;0;1000;Asteroid;Asteroid;A huge pile or rocks has crash landed on the populated planet, thousands might die.;1;0.95;0.25;0.5
+0;0;1000;Flu;Jungle Fever;People are sick and dying.;0.95;1;0.5;0.97
+0;0;1000;Flu;Ebola;The disease is spreading rapidly!;0.95;1;0.4;0.97
+0;0;300;Gargamel;Gargamel;Gargamel is trying to catch some smurfs with Azrael, but he keeps on failing. So he isn't really affecting anything...;1;1;1;1
+0;100;300;MedievalWar;The Great War;Global tensions between different cultures have thrown the planet into a World War.;1;0.9;0.7;0.5
+0;100;400;Disaster;My God or Your God;Religious tensions have reached a new boiling point, causing people to fight each other. Is there truly a Creator?;0;1;0.9;0.8
+0;150;1000;Flu;The flu;Influenza is on the rise due to a movement's refusal to vaccinate!;0.9;1;0.8;0.6
+0;250;750;Bankruptcy;Bankruptcy;People can't pay for food anymore and the economic system is failing!;1;1;0.8;1
+0;300;700;Snake;Land of Nopes;Someone brought their Nopes from Australia, and they have started killing people.;1;1;0.75;1
+0;300;900;Tobacco;Tobacco;Somebody inhaled the fumes of some burning leaves and, sadly, enjoyed it.;0.6;0.9;0.4;1
+0;450;1000;RedMustang;Red Mustang Pollution;One of your species has bought a Red Mustang and it has dramatically decreased the quality of your atmosphere.;0.5;1;0.75;1
+0;450;1000;Zombie;Zombie outbreak;A lot of species have transformed into zombies. A cure is being researched...;0.8;0.9;0.3;0.4
+0;450;1000;PoliticalCrisis;Political Crisis;People are rioting because a dictator has taken over parts of the world!;0.8;0.9;0.9;0.9
+0;700;900;Kardashians;The Kardashians;Too many were born, and ruined a bit of everything -- from North to West.;0.8;0.9;0.95;1
+0;500;1000;TonaldDrump;New Leader: Tonald Drump;Your species have elected a new leader named Tonald Drump. He has caused a lot of pollution and decreased overall healthcare.;0.75;1;0.75;1
+0;500;1000;GreatWar;World War;People are dying all over the world.;0.95;0.90;0.40;0.5
+0;600;700;BillNye;The planet is not round!;Some idiots are claiming the Earth is flat and have caused quite some havoc among the people.;1;1;0.95;1
+0;600;900;Disaster;Warning! Toxic!;Toxic waste is being handle irresponsibly. Organisations are outraged!;0.8;0.7;0.8;1
+0;600;1000;AtomicBomb;The Atomic bomb;A country has harnessed the power of the atom and developed and used a nuclear bomb in combat. ;0.6;0.8;0.5;0.6
+0;700;1000;Disaster;Nuclear meltdown;Do you know Chernobyl? They've made the same mistake.;0.7;0.9;0.7;0.75
+0;700;1000;Protection;Prevention!;People have started using condoms as a means of birth control.;1;1;1;0.95
+0;700;1000;monster;Genetically Modified Monsters;Uhm, we've created something -- and it's kind of wrecking cities and its inhabitants. Woops!;1;0.9;0.9;0.9
+0;750;1000;Monkey;Planet of The Apes;Looks like it wasn't a film after all.;1;1;0.5;0.6
+0;800;1000;Disaster;Terrorism!;Terrorism is on the rise and is causing havoc in your cities.;1;1;0.7;0.8
+0;800;1000;Disaster;The River of Blood;A massive fire at an industrial complex has released toxic agrochemicals into the air and resulted in tons of pollutants entering the closest rivers, turning it red.;0.6;0.75;0.7;0.95
+0;850;1000;Disaster;Blimey, riots!;Strict politics have stirred emotions and riot outbreaks are on the rise.;1;1;0.7;1
+0;850;1000;Exams;Exams, exams everywhere;We exceeded expectations just by turning up for the exams!;1;1;0.7;1
+0;900;1000;Cocaine;Crack 'n Caine;Cocaine is like really evil coffee. Your species have legalised the use of drugs.;1;1;0.3;0.8
+0;950;1000;AlienInvasion;Alien Invasion;Aliens have invaded and terraformed your planet to mine valuable ores.;1;0.5;0.7;0.4
+0;950;1000;IonCannon;Ion Cannons;Fanatics have managed to seize control of the D.O.D.'s Ion Cannon and have obliterated an entire country based on race.;0.8;0.7;0.6;0.65
+0;990;1000;Matrix;Has science gone too far?;Scientists have conducted research towards the meaning of life. People have realised they are in a simulation.;1;1;1;0.05
+0;981;1000;DoIt;The Empire strikes back;The Death Star has destroyed the entire planet! => Simulation over.;0;0;0;0
+1;0;400;Breakthrough;Understanding of the menstruation cycle;People now fully understand the menstruation cycle -- Population is booming!\n(+1 Medicine);0;;;
+1;0;600;Breakthrough;Organism Dissection;After long discussion, the people have decided that species dissection is not immoral and for the greater good.\n(+1 Medicine);0;;;
+1;200;800;Breakthrough;Jungle species;A special kind of species that is immune to many diseases has been discovered in a jungle.\n(+1 Medicine);0;;;
+1;500;700;Breakthrough;On The Origin Of Species;A theory of Evolution?! The basis to the modern evolutionary synthesis.\n(+1 Medicine);0;;;
+1;500;800;Breakthrough;Anesthetic;The discovery of anesthesia has improved overall medical care.\n(+1 Medicine);0;;;
+1;500;1000;Breakthrough;Morphine;Friedrich Serturner has invented morphine.\n(+1 Medicine);0;;;
+1;600;1000;Breakthrough;Penicillin;Alexander Fleming has helped create penicillin.\n(+1 Medicine);0;;;
+1;700;800;Breakthrough;Heart Transplant;The first heart transplant has been achieved.\n(+1 Medicine);0;;;
+1;750;1000;Breakthrough;X-ray;X-rays have proven useful in the analysis of many injuries.\n(+1 Medicine);0;;;
+1;750;1000;Breakthrough;Prosthetics;Advanced prosthetics have been discovered.\n(+1 Medicine);0;;;
+1;800;1000;Breakthrough;DNA;DNA has been discovered!\n(+1 Medicine);0;;;
+1;900;1000;Breakthrough;Augmented Species;Augmentation to the organism body has increased overall health and performance.\n(+1 Medicine);0;;;
+1;0;400;Breakthrough;Banana;Your species have discovered bananas and who doesn't like bananas!\n(+1 Agriculture);1;;;
+1;0;500;Breakthrough;Fertilizer;Fertilizer has been discovered.\n(+1 Agriculture);1;;;
+1;0;500;Breakthrough;Potato;The potato plant has been discovered.\n(+1 Agriculture);1;;;
+1;0;500;Breakthrough;Crop rotation;Apparently the soil prefers multiple kinds of crops. Interesting.\n(+1 Agriculture);1;;;
+1;0;600;Breakthrough;Irrigation;By irrigating the fields, agriculture has improved.\n(+1 Agriculture);1;;;
+1;400;600;Breakthrough;The Spaghetti Tree;People have tried making a spaghetti tree -- they failed -- but still.\n(+1 Agriculture);1;;;
+1;400;800;Breakthrough;Machinery;Machines were made to help plow the fields!\n(+1 Agriculture);1;;;
+1;550;700;Breakthrough;Benjamin Holt;This man invented the tractor!\n(+1 Agriculture);1;;;
+1;600;700;MomsSpaghetti;Mom's spaghetti;Knees weak, arms are heavy, Agriculture +1 already.\n(+1 Agriculture);1;;;
+1;800;1000;Breakthrough;Plant genetics;Using DNA to genetically modify plants.\n(+1 Agriculture);1;;;
+1;800;1000;Breakthrough;One-meal tomatoes;A new kind of tomato has been made that contains enough nutrients to replace an entire meal!\n(+1 Agriculture);1;;;
+1;0;150;Breakthrough;Modern Pyramids;In an attempt of Renaissance for Egyptian culture, pyramids have been built.\n(+1 Architecture);2;;;
+1;0;200;Breakthrough;The Mixture;People are now able to build houses cheaper and more efficient.\n(+1 Architecture);2;;;
+1;0;300;Breakthrough;Pantheon;Your species have renovated the great Pantheon.\n(+1 Architecture);2;;;
+1;0;300;Breakthrough;Statue of Zeus;People have turned towards ancient gods and have built a great wonder for Zeus.\n(+1 Architecture);2;;;
+1;0;1000;Breakthrough;Great architect;A great architect has been born, boosting technology.\n(+1 Architecture);2;;;
+1;0;200;Breakthrough;Reinforced Concrete;Someone mixed sand, water, steel and more, and got an awesome building material.\n(+1 Architecture);2;;;
+1;100;500;Breakthrough;Measuring the World;The new sciences have given us a number of different ways to describe and measure the world around us.\n(+1 Architecture);2;;;
+1;100;400;Breakthrough;Visionary Thinkers;Our world is a bastion of intellectual thought and our universities produce some of the most visionary thinkers ever when it comes to materials and construction.\n(+1 Architecture);2;;;
+1;400;800;Breakthrough;Wine Cellar;People are now able to build underground! All hail decadence!\n(+1 Architecture);2;;;
+1;500;800;Breakthrough;The Statue of Liberty;The Statue of Liberty has been constructed.\n(+1 Architecture);2;;;
+1;550;700;Breakthrough;Urban Planning;Cities are now constructed with regard to efficiency and beauty.\n(+1 Architecture);2;;;
+1;600;750;Breakthrough;The Eiffel Tower;The Eiffel Tower has been built in Paris.\n(+1 Architecture);2;;;
+1;600;1000;Breakthrough;Kim Ragaert;Kim Ragaert has been born, instantly boosting Architecture through material sciences!\n(+1 Architecture);2;;;
+1;800;1000;Breakthrough;Burj Khalifa;One of the tallest buildings has been constructed.\n(+1 Architecture);2;;;
+1;980;1000;jedi;The Force;The Jedi Temple has been discovered.\n(+1 Architecture);2;;;
+1;0;250;Breakthrough;Leonardo Da Vinci;Being a master in many subjects of science and art does have its perks.\n(+1 Engineering);3;;;
+1;0;300;Breakthrough;Mathematics Boom;Your species have been uncovering many of nature's secrets and have developed a new art to describe them.\n(+1 Engineering);3;;;
+1;0;1000;Breakthrough;Astronomy;Look up -- the Stars await us.\n(+1 Engineering);3;;;
+1;300;450;Breakthrough;Galileo Galilei;This person has played a major role in the contributions of observational astronomy.\n(+1 Engineering);3;;;
+1;300;500;Breakthrough;Apples and Isaac;Isaac Newton's Principia formulated the laws of motion and universal gravitation.\n(+1 Engineering);3;;;
+1;300;1000;Breakthrough;Scientific Experimentation;While it is true that we stand on the shoulders of our ancestors, it is high time that we start to learn about the world from our own, well documented observations.\n(+1 Engineering);3;;;
+1;400;700;Breakthrough;Printing Press;Printing has been made easier to spread more wisdom.\n(+1 Engineering);3;;;
+1;500;1000;Breakthrough;We've hit oil, boys!;A large reservoir of oil has been found. James Young -- where are y'at?\n(+1 Engineering);3;;;
+1;500;700;Breakthrough;The Education Act;Henceforth education is compulsory for those who are to govern our legal system.\n(+1 Engineering);3;;;
+1;550;950;Breakthrough;Chemical Wizard;Chemistry has opened many new doors: a whole array of new molecules and compounds are now being developed.\n(+1 Engineering);3;;;
+1;600;800;Breakthrough;The Transistor;The transistor has been developed. Immense progress in computing has been announced!\n(+1 Engineering);3;;;
+1;600;1000;ExtraBreakthrough;A great Engineer;Wim has been born! A great day for Engineering!\n(+1 Engineering);3;;;
+1;800;1000;Breakthrough;The Internet;The Internet:Lolcats and memes for days! Oh, and sharing information.\n(+1 Engineering);3;;;
+1;950;1000;ExtraBreakthrough;Nanotechnology;Excuse me, where is the nanotechnology department? - You just stepped on it.\n(+1 Engineering);3;;;
+1;900;1000;Breakthrough;Pizza;Your organism has created the recipe for pizza -- what a great day for your organism! Engineers wouldn't survive without pizza.\n(+1 Engineering);3;;;
+1;900;1000;ExtraBreakthrough;Boris Boreau;The sandals make the man! Or something along those lines.\n(+1 engineering);3;;;
+1;900;1000;Breakthrough;Quantum Computing;"""If you think you understand quantum mechanics, you don't understand quantum mechanics.""\n(+1 Engineering)";3;;;
+1;900;1000;Breakthrough;Nuclear Fusion Tech;At long last, the power of a star is within our grasp.\n(+1 Engineering);3;;;
+1;950;1000;Breakthrough;FTL? FTL!; Light may be fast, but it finds the darkness has always got there first, and is waiting for it.\n(+1 Engineering);3;;;
+1;999;1000;ExtraBreakthrough;Future tech;Mass relays are feats of Prothean engineering advanced far beyond the technology of any living species.\n(+1 Engineering);1;;;

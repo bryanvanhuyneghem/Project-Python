@@ -1,0 +1,5 @@
+type_event;titel;...
+type_event = 0 -> disaster
+type_event = 1 -> breakthrough
+0;"title";"message";atmosphere_multiplier;landmass_multiplier;population_health_multiplier;population_multiplier
+1;"title";"message";tech_index

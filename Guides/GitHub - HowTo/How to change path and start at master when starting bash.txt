@@ -1,0 +1,10 @@
+1) Right click desktop icon for GitBash
+2) Select properties
+3) In "Target", remove everything that follows the git-bash.exe path. All that should remain is something like:
+	-> "C:\Program Files\Git\git-bash.exe"
+4) In "Start in", enter the pull path to the folder of your choice. In this case the final folder should be the folder that contains the .git initialiser (team-9).
+5) Ok to apply changes.
+6) Start GitBash and you will notice that your Bash starts in the folder of your choice (on the master in this case)
+
+
+- Bryan
